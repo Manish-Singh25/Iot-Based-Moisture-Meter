@@ -1,0 +1,1 @@
+web: gunicorn moisture_meter.wsgi --log-file -
